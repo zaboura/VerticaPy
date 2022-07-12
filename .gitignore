@@ -1,2 +1,5 @@
 test/
 data/
+.DS_Store
+img/.DS_Store
+.ipynb_checkpoints
